@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/hotwax/api-adapter/issues"
   },
-  "homepage": "https://github.com/hotwax/api-adapter#readme"
+  "homepage": "https://github.com/hotwax/api-adapter#readme",
+  "devDependencies": {
+    "typescript": "^4.7.2"
+  }
 }
