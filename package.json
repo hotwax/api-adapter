@@ -1,0 +1,19 @@
+{
+  "name": "@hotwax/api-adapter",
+  "version": "0.0.1",
+  "description": "API adapter by HotWax Commerce",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotwax/api-adapter.git"
+  },
+  "author": "HotWax Commerce",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hotwax/api-adapter/issues"
+  },
+  "homepage": "https://github.com/hotwax/api-adapter#readme"
+}
